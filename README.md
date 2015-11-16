@@ -27,3 +27,5 @@ A CIC filter consists of one or more integrator and comb filter pairs. In the ca
 * Testbench
 * Conclutions
 
+---
+©2010
